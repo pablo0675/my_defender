@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="defender" targetName="Make_drag_drop" />
+      <config projectName="defender" targetName="re" />
+      <config projectName="defender" targetName="fclean" />
+      <config projectName="defender" targetName="all" />
+      <config projectName="defender" targetName="my_defender" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7639851-e1d1-4293-838e-9c272139249e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/include/my_defender.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/my_defender.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/window.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/window.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yellow_tower.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/yellow_tower.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/..">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rp14l40u" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="$PROJECT_DIR$/src/main.c" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="25sNVWOAzmSZoEWYFbbxxcoBGUu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../defender_tmp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration name="Make_drag_drop" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="defender" TARGET_NAME="Make_drag_drop" CONFIG_NAME="Make_drag_drop" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="defender" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="defender" TARGET_NAME="fclean" CONFIG_NAME="fclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="my_defender" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="defender" TARGET_NAME="my_defender" CONFIG_NAME="my_defender" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="re" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="defender" TARGET_NAME="re" CONFIG_NAME="re" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.fclean" />
+      <item itemvalue="Makefile Application.re" />
+      <item itemvalue="Makefile Application.Make_drag_drop" />
+      <item itemvalue="Makefile Application.my_defender" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7639851-e1d1-4293-838e-9c272139249e" name="Changes" comment="" />
+      <created>1646311858178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646311858178</updated>
+      <workItem from="1646311859592" duration="321000" />
+      <workItem from="1646312455939" duration="195000" />
+      <workItem from="1646312761313" duration="2009000" />
+      <workItem from="1646316451635" duration="368000" />
+      <workItem from="1646391112118" duration="164000" />
+      <workItem from="1646654274765" duration="1000" />
+      <workItem from="1646656361374" duration="379000" />
+      <workItem from="1646770044525" duration="16000" />
+      <workItem from="1646771234766" duration="14000" />
+      <workItem from="1646774798329" duration="756000" />
+      <workItem from="1646819801572" duration="3366000" />
+      <workItem from="1646832604298" duration="6261000" />
+      <workItem from="1646910730869" duration="3417000" />
+      <workItem from="1646920664038" duration="111000" />
+      <workItem from="1646920792166" duration="6578000" />
+      <workItem from="1646950071072" duration="114000" />
+      <workItem from="1647251442059" duration="3096000" />
+      <workItem from="1647259168346" duration="1467000" />
+      <workItem from="1647265097369" duration="140000" />
+      <workItem from="1647351073158" duration="314000" />
+      <workItem from="1647427172667" duration="68000" />
+      <workItem from="1647435693948" duration="744000" />
+      <workItem from="1647440901228" duration="608000" />
+      <workItem from="1647511841564" duration="4184000" />
+      <workItem from="1647519470943" duration="1560000" />
+      <workItem from="1647523644934" duration="970000" />
+      <workItem from="1647524848246" duration="588000" />
+      <workItem from="1647536795897" duration="3080000" />
+      <workItem from="1647557308377" duration="3000" />
+      <workItem from="1647592781533" duration="2766000" />
+      <workItem from="1647605297746" duration="562000" />
+      <workItem from="1647692631080" duration="11362000" />
+      <workItem from="1647734149362" duration="6000" />
+      <workItem from="1647786481282" duration="13806000" />
+      <workItem from="1647803152309" duration="164000" />
+      <workItem from="1647850978986" duration="190000" />
+      <workItem from="1647851712164" duration="37000" />
+      <workItem from="1647856851079" duration="5000" />
+      <workItem from="1647858827050" duration="320000" />
+      <workItem from="1648036189873" duration="1295000" />
+      <workItem from="1648040965960" duration="1036000" />
+      <workItem from="1648049605687" duration="3000" />
+      <workItem from="1648051190397" duration="315000" />
+      <workItem from="1648076143871" duration="310000" />
+      <workItem from="1648140570789" duration="698000" />
+      <workItem from="1648215186190" duration="2000" />
+      <workItem from="1648241475156" duration="13000" />
+      <workItem from="1648248463987" duration="11000" />
+      <workItem from="1648249758368" duration="12000" />
+      <workItem from="1648914934866" duration="1619000" />
+      <workItem from="1648981684050" duration="847000" />
+      <workItem from="1649018958358" duration="1096000" />
+      <workItem from="1649078199765" duration="845000" />
+      <workItem from="1649321310402" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

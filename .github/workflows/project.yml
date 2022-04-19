@@ -1,0 +1,26 @@
+on: [ push, pull_request ]
+jobs:
+  check_repository_cleanliness:
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: actions/checkout@v2
+      - id: "check_repository_cleanliness"
+        run: |
+          find . -name "#*#" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "*~" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "my_rpg" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "*.o" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "*.a" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "*.so" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "*.gcno" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "*.gcda" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+          find . -name "*.gcov" -exec echo "::error file={},line=1,title=Unwanted file detected::{}" \;
+  check_compilation:
+    runs-on: "ubuntu-latest"
+    container: epitechcontent/epitest-docker:latest
+    steps:
+      - uses: actions/checkout@v2
+      - id: "check_make"
+        run: make
+      - id: "check_make_clean"
+        run: make clean
